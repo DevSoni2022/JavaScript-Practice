@@ -12,7 +12,9 @@ const toggle  = (...args)=>{
         }
     }
 }
-const onOff = toggle("1","2","3")
+// const onOff = toggle("1","2","3")
+const onOff = toggle("On","Off")
+
 console.log(onOff())
 console.log(onOff())
 console.log(onOff())
