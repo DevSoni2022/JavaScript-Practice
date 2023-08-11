@@ -75,8 +75,6 @@ class QueueUsingStack {
     queue.enqueue(40);
     queue.enqueue(50);
     console.log(queue.peek());
-    // console.log(queue.dequeue());
-    // console.log(queue.peek());
-    // console.log(queue.dequeue());
-    // console.log(queue.peek());
+    // 
+    
     
