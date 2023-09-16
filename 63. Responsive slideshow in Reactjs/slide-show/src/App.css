@@ -30,7 +30,7 @@
 }
 
 .slide img {
-  max-width: 800px;
+  max-width: 500px;
   width:  100%;
 }
 
@@ -49,8 +49,8 @@
 }
 
 .dot {
-  width: 30px;
-  height: 30px;
+  width: 10px;
+  height: 10px;
   border-radius: 50%;
   background-color: grey;
   margin: 0 3px;

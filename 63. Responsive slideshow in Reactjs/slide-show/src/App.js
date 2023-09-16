@@ -55,7 +55,7 @@ else{
   setActive(0)
 }
 
-},1000)
+},2000)
 return(()=>{
   clearInterval(interval)
 })
